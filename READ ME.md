@@ -1,3 +1,3 @@
 #READ ME
 
-Place competition programming files in this repository.
+Place competition programming files in this repository
